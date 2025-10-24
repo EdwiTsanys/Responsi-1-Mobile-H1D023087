@@ -1,5 +1,14 @@
-#Responsi 1 Mobile
+##Responsi 1 Mobile
 
+#Identitas
+| Informasi | Detail |
+| :--- | :--- |
+| **Nama** | **M Edwi Tsanystya Raihan** |
+| **NIM** | **H1D023087** |
+| Shift Asal | A |
+| Shift Baru | F |
 
 #Demo Aplikasi
-<img width="1253" height="576" alt="image" src="https://github.com/user-attachments/assets/e056fd3b-f962-4d5e-96ad-007779b150ca" />
+![](WhatsApp Video 2025-10-24 at 19.08.40_71082baf.gif)
+
+
